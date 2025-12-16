@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,reading,and writing long code on Eclipse using Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on coding program for creating a game
-- 📫 How to reach me:you can send me to my email sergonb8064@my.middlesexcc.edu. You will get the reply in less than 24 hrs.
+- 📫 How to reach me:you can send me to my email serjo7nasser@gmail.com. You will get the reply in less than 24 hrs.
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:the fun fact about me when i create i code i think iam a lawyer in the court and iam trying to convice the judger(Eclipse) it is correct.
 
