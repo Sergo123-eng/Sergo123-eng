@@ -1,22 +1,33 @@
-- 👋# Hi, I'm Serjo 👋
+# Hi, I'm Serjo
 
-🎓 Computer Science student at Rutgers University–New Brunswick
+### Computer Science student at Rutgers University–New Brunswick
 
-💻 Passionate about Software Engineering, Artificial Intelligence, Machine Learning, and Backend Development
+I build practical web applications that help people learn, support customers, and make sense of information. My interests span software engineering, AI applications, backend development, and data visualization.
 
-🚀 Currently building projects with Python, FastAPI, and AI technologies while expanding my knowledge of machine learning and data-driven applications
+My experience in AI evaluation and customer support informs how I approach software: make the result useful, show the evidence, and keep people in control.
 
-🤖 Experienced in AI data evaluation, annotation, and quality assurance through large-scale AI projects involving image, video, audio, and language model assessment
+**Open to internships, freelance web development, and collaboration.**
 
-🌱 Continuously learning new technologies and improving my problem-solving and software development skills
+[Email me](mailto:serjo7nasser@gmail.com) · [Explore my repositories](https://github.com/Sergo123-eng?tab=repositories)
 
-🤝 Open to collaborating on software engineering, AI, machine learning, and open-source projects
+## Featured projects
 
-📫 Reach me at: **serjo7nasser@gmail.com**
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **StudentSpark Copilot** | Academic guidance, Quiz Me and Exam Me practice, server-side AI integration, and membership controls. | [Code](https://github.com/Sergo123-eng/AI-Student-Copilot) · [Website](https://studentspark-copilot.vercel.app/) |
+| **Agent Assist** | Policy-informed draft replies that a human support agent reviews and chooses. Inspired by my internship experience. | [Code](https://github.com/Sergo123-eng/agent-assist-copilot) · [Demo](https://sergo123-eng.github.io/agent-assist-copilot/) |
+| **Return Radar** | Support-ticket analysis with issue grouping, charts, traceable evidence, and a prioritized improvement queue. | [Code](https://github.com/Sergo123-eng/return-radar) · [Demo](https://sergo123-eng.github.io/return-radar/) |
+| **Daily Bro + Gym Bro** | Small actions for movement, connection, and rest, with easier alternatives, calendar reminders, and a Little Wins journal. | [Code](https://github.com/Sergo123-eng/daily-bro) · [Demo](https://sergo123-eng.github.io/daily-bro/) |
 
-⚡ Fun fact: I approach debugging like a lawyer presenting a case—every line of code needs evidence before the compiler delivers its verdict.
+**About the demos:** StudentSpark uses a hosted AI service with access controls. Agent Assist's standalone demo uses fallback drafts, Return Radar uses a small text classifier and recommendation templates, and Daily Bro uses guided rules. Each README explains the implementation and limits.
 
-<!---
-Sergo123-eng/Sergo123-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I work with
+
+- **Web:** JavaScript, TypeScript, React, HTML, CSS
+- **Backend & data:** Python, FastAPI, Supabase, serverless APIs
+- **Product development:** human-reviewed workflows, explainable results, responsive interfaces, and practical testing
+- **AI evaluation:** experience assessing image, video, audio, and language-model outputs
+
+## More projects
+
+[AI Job Tracker](https://github.com/Sergo123-eng/ai-job-tracker) · [EVA Lead Scoring Engine](https://github.com/Sergo123-eng/eva-lead-scoring-engine) · [RoleReady AI](https://github.com/Sergo123-eng/roleready-ai)
