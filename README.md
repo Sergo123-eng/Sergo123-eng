@@ -1,4 +1,4 @@
-# Hi, I'm Serjo
+# Hi, I'm Sergo
 
 ### Computer Science student at Rutgers University–New Brunswick
 
